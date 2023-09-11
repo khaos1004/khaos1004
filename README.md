@@ -1,2 +1,1 @@
-# khaos1004
-# khaos1004
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
