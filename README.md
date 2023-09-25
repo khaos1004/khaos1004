@@ -2,6 +2,8 @@
 
 <h3>FrontEnd Tech Stack</h3>
 <div>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=plastic&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white"/>
@@ -17,9 +19,22 @@
   <img src="https://img.shields.io/badge/python-3776AB?style=plastic&logo=python&logoColor=white"/>
 </div>
 
-<h3>Blog</h3>
+<h3>Doc</h3>
 <div>
   <img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white"/>
 </div>
 
+<h3>백준</h3>
+<div>
+  <p>
+    <a href="https://solved.ac/khaos1004">
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=khaos1004" alt="Solved.ac프로필">    
+    </a>
+  </p>
+</div>
+<h3>State</h3>
+<div>
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khaos1004&show_icons=true&theme=gruvbox)
+</div>
