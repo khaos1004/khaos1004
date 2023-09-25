@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text='BrandonJE%GitHub'&fontSize=24)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text='BrandonJE%20GitHub'&fontSize=24)
 
 <br />
 <img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=로고이름&logoColor=white"/>
