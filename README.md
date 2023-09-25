@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text='BrandonJE'&fontSize=24)
-
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=gradient&height=200&section=header&text='BrandonJE'&fontSize=24)
+<br />
 안녕하세요 JAVA 개발자 제성현 입니다:)
 사용기술 스택
 
