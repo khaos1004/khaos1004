@@ -33,7 +33,7 @@
     </a>
   </p>
 </div>
-<h3>State</h3>
+<h3>GitHub Stats</h3>
 <div>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khaos1004&show_icons=true&theme=gruvbox)
