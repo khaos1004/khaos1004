@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=58A616&height=200&section=header&text='Brandon%20JE%20GitHub%20입니다'&fontSize=24&animation=twinkling&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=E43526&height=200&section=header&text='Brandon%20JE%20GitHub%20입니다'&fontSize=24&animation=twinkling&fontColor=FFFFFF)
 
 <h3>FrontEnd Tech Stack</h3>
 <div>
@@ -20,5 +20,6 @@
 <h3>Blog</h3>
 <div>
   <img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white"/>
 </div>
 
