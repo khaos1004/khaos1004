@@ -20,8 +20,8 @@
 
 <h3 align="center">CoWorking</h3>
 <div align="center">
-  <a src="https://velog.io/@bigcat"><img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=white"/></a>
-  <a src="https://www.notion.so/5dcd16ac7ab14049ba645c9428e3b790?pvs=37&qid="><img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white"/>
 </div>
 
 <h3 align="center">BackJoon Solved Ranking</h3>
