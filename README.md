@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nextjs-000000?style=plastic&logo=Nextdotjs&logoColor=white"/>
 </div>
 <h3 align="center">BackEnd Tech Stack</h3>
 <div align="center">
