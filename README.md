@@ -15,7 +15,9 @@
 <h3 align="center">BackEnd Tech Stack</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-6DB33F?style=plastic&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=plastic&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Scurity-6DB33F?style=plastic&logo=springsecurity&logoColor=white"/>
   <img src="https://img.shields.io/badge/php-777BB4?style=plastic&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=plastic&logo=Laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/NodeJS-339933?style=plastic&logo=nodedotjs&logoColor=white"/>
