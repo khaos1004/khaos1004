@@ -9,8 +9,8 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Reactjs-61DAFB?style=plastic&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nextjs-000000?style=plastic&logo=Nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/vuejs-4FC08D?style=plastic&logo=vuedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nuxtjs-00DC82?style=plastic&logo=nuxtdotjs&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/vuejs-4FC08D?style=plastic&logo=vuedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nuxtjs-00DC82?style=plastic&logo=nuxtdotjs&logoColor=white"/> -->
 </div>
 <h3 align="center">BackEnd Tech Stack</h3>
 <div align="center">
